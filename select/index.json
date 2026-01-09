@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "エリート",
+  "base_artist": "Chinozo",
+  "createdAt": "2026-01-09T14:56:26.657933Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "エリート",
+      "artist": "Chinozo",
+      "has_synced": true,
+      "path": "select/01_エリート_Chinozo.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Chinozo 'エリート' feat.KafU",
+      "artist": "Chinozo",
+      "has_synced": true,
+      "path": "select/02_Chinozo_'エリート'_feat.KafU_Chinozo.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "エリート",
+      "artist": "Chinozo",
+      "has_synced": true,
+      "path": "select/03_エリート_Chinozo.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "エリート (self cover)",
+      "artist": "Chinozo",
+      "has_synced": true,
+      "path": "select/04_エリート_(self_cover)_Chinozo.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "エリート(self cover)",
+      "artist": "Chinozo",
+      "has_synced": true,
+      "path": "select/05_エリート(self_cover)_Chinozo.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Chinozo 'エリート' feat.KafU",
+      "artist": "Chinozo",
+      "has_synced": true,
+      "path": "select/06_Chinozo_'エリート'_feat.KafU_Chinozo.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "エリート",
+      "artist": "Chinozo",
+      "has_synced": true,
+      "path": "select/07_エリート_Chinozo.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "エリート",
+      "artist": "Chinozo",
+      "has_synced": false,
+      "path": "select/pl_01_エリート_Chinozo.txt"
+    }
+  ]
+}
